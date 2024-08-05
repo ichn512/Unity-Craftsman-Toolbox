@@ -1,2 +1,2 @@
-# Unity-Tinkers-Toolbox
-Opinionated list of useful tools for .NET and Unity development
+# Unity-Craftsman-Toolbox
+Opinionated list of useful tools and resources for .NET and Unity development
