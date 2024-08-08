@@ -11,3 +11,6 @@ Opinionated list of useful tools and resources for .NET and Unity development
   * [Input Prompts](https://kenney.nl/assets/input-prompts) — awesome input prompts
 ## Tools
 * [LanguageTool](https://languagetool.org/) — advanced multilingual grammar and spelling checker with CLI version
+### Windows
+* [Everything](https://www.voidtools.com/) — best file indexer(searcher) ever, also have
+  [SDK](https://www.voidtools.com/support/everything/sdk/)
