@@ -14,3 +14,4 @@ Opinionated list of useful tools and resources for .NET and Unity development
 ### Windows
 * [Everything](https://www.voidtools.com/) — best file indexer(searcher) ever, also have
   [SDK](https://www.voidtools.com/support/everything/sdk/)
+* [WinCompose](http://wincompose.info/) — more intelligent way to insert special characters than Alt-codes and `Win+.`
