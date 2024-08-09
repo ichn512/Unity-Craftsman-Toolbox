@@ -15,7 +15,11 @@
 
 * [LanguageTool](https://languagetool.org/) — advanced multilingual grammar and spelling checker with CLI version
 * [Regex 101](https://regex101.com/) — regex playground and analysis, lots of implementations available
-* [SharpLab](https://sharplab.io/) — .NET online decompiler, disassembler and playground 
+* [SharpLab](https://sharplab.io/) — .NET online decompiler, disassembler and playground
+
+## Unity
+
+* [OpenUPM](https://openupm.com/) — nicer way to install open-source packages
 
 ## Windows
 
