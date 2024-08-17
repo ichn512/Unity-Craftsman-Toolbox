@@ -21,6 +21,7 @@
 ## Unity
 
 * [OpenUPM](https://openupm.com/) — nicer way to install open-source packages
+* [UnityRoslynUpdater](https://github.com/DaZombieKiller/UnityRoslynUpdater) — unofficial support for higher versions of C#
 
 ## Windows
 
